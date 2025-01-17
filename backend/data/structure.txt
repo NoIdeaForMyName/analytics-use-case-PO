@@ -1,0 +1,48 @@
+id, rower_id, rowerzysta_id, czy_sprawny, opis
+[
+    {
+        bike_id: 54787
+        bike_is_electric: false
+        bike_is_functional: true
+        report: 
+        [
+            {
+                report_id: 472
+                report_bike_fk: 54787
+                report_cyclist_fk: 8251
+                report_is_functional: true
+                report_description: Lorem Ipsum...
+            },
+            {
+                report_id: 842
+                report_bike_fk: 54787
+                report_cyclist_fk: 7842
+                report_is_functional: true
+                report_description: ...
+            }
+        ]
+    },
+    {
+        bike_id: 54787
+        bike_is_electric: false
+        bike_is_functional: true
+        report: 
+        [
+            {
+                report_id: 123
+                report_bike_fk: 57727
+                report_cyclist_fk: 7832
+                report_is_functional: false
+                report_description
+            },
+            {
+                report_id: 982
+                report_bike_fk: 57727
+                report_cyclist_fk: 1985
+                report_is_functional: true
+                report_description: ...
+            }
+        ]
+    }
+
+]
