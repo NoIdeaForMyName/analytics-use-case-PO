@@ -89,6 +89,7 @@ function Home() {
       );
       setCheckboxStates(initialCheckboxStates);
       setCheckedBikesIds([]);
+      setShowDownloadChosenButton(false);
 
       setBikeList(bikeRows);
     }
@@ -99,6 +100,7 @@ function Home() {
     downloadJSON(filteredReports, 'filtered_reports');
     setMessageBoxText("Dane wybranych zgłoszeń zostały pobrane pomyślnie");
     onOpen();
+
   };
 
   return (
