@@ -85,6 +85,7 @@ function Home() {
         {}
       );
       setCheckboxStates(initialCheckboxStates);
+      setCheckedBikesIds([]);
 
       setBikeList(bikeRows);
     }
