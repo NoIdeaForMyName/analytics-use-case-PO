@@ -3,7 +3,7 @@
         "bike_id": 94730,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 147,
                 "report_bike_fk": 94730,
@@ -108,7 +108,7 @@
         "bike_id": 25824,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 912,
                 "report_bike_fk": 25824,
@@ -157,7 +157,7 @@
         "bike_id": 50444,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 553,
                 "report_bike_fk": 50444,
@@ -262,7 +262,7 @@
         "bike_id": 49711,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 854,
                 "report_bike_fk": 49711,
@@ -346,7 +346,7 @@
         "bike_id": 87990,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 950,
                 "report_bike_fk": 87990,
@@ -402,7 +402,7 @@
         "bike_id": 42595,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 193,
                 "report_bike_fk": 42595,
@@ -479,7 +479,7 @@
         "bike_id": 92414,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 778,
                 "report_bike_fk": 92414,
@@ -507,7 +507,7 @@
         "bike_id": 96965,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 599,
                 "report_bike_fk": 96965,
@@ -612,7 +612,7 @@
         "bike_id": 60434,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 602,
                 "report_bike_fk": 60434,
@@ -640,7 +640,7 @@
         "bike_id": 53755,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 307,
                 "report_bike_fk": 53755,
@@ -710,7 +710,7 @@
         "bike_id": 46938,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 576,
                 "report_bike_fk": 46938,
@@ -759,7 +759,7 @@
         "bike_id": 16633,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 379,
                 "report_bike_fk": 16633,
@@ -843,7 +843,7 @@
         "bike_id": 93282,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 242,
                 "report_bike_fk": 93282,
@@ -885,7 +885,7 @@
         "bike_id": 27959,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 680,
                 "report_bike_fk": 27959,
@@ -934,7 +934,7 @@
         "bike_id": 15521,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 531,
                 "report_bike_fk": 15521,
@@ -990,7 +990,7 @@
         "bike_id": 17807,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 720,
                 "report_bike_fk": 17807,
@@ -1102,7 +1102,7 @@
         "bike_id": 42036,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 653,
                 "report_bike_fk": 42036,
@@ -1193,7 +1193,7 @@
         "bike_id": 11295,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 888,
                 "report_bike_fk": 11295,
@@ -1305,7 +1305,7 @@
         "bike_id": 24245,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 168,
                 "report_bike_fk": 24245,
@@ -1417,7 +1417,7 @@
         "bike_id": 72780,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 898,
                 "report_bike_fk": 72780,
@@ -1494,7 +1494,7 @@
         "bike_id": 43202,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 158,
                 "report_bike_fk": 43202,
@@ -1599,7 +1599,7 @@
         "bike_id": 92994,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 391,
                 "report_bike_fk": 92994,
@@ -1669,7 +1669,7 @@
         "bike_id": 62422,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 498,
                 "report_bike_fk": 62422,
@@ -1767,7 +1767,7 @@
         "bike_id": 12814,
         "bike_is_electric": true,
         "bike_is_functional": true,
-        "report": [
+        "reports": [
             {
                 "report_id": 565,
                 "report_bike_fk": 12814,
@@ -1795,7 +1795,7 @@
         "bike_id": 94785,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 201,
                 "report_bike_fk": 94785,
@@ -1893,7 +1893,7 @@
         "bike_id": 55073,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 533,
                 "report_bike_fk": 55073,
@@ -1935,7 +1935,7 @@
         "bike_id": 78978,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 623,
                 "report_bike_fk": 78978,
@@ -2033,7 +2033,7 @@
         "bike_id": 82132,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 858,
                 "report_bike_fk": 82132,
@@ -2131,7 +2131,7 @@
         "bike_id": 83447,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 816,
                 "report_bike_fk": 83447,
@@ -2180,7 +2180,7 @@
         "bike_id": 89975,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 277,
                 "report_bike_fk": 89975,
@@ -2222,7 +2222,7 @@
         "bike_id": 41540,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 473,
                 "report_bike_fk": 41540,
@@ -2278,7 +2278,7 @@
         "bike_id": 21988,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 585,
                 "report_bike_fk": 21988,
@@ -2362,7 +2362,7 @@
         "bike_id": 64543,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 266,
                 "report_bike_fk": 64543,
@@ -2404,7 +2404,7 @@
         "bike_id": 90043,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 527,
                 "report_bike_fk": 90043,
@@ -2488,7 +2488,7 @@
         "bike_id": 72281,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 894,
                 "report_bike_fk": 72281,
@@ -2565,7 +2565,7 @@
         "bike_id": 74924,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 977,
                 "report_bike_fk": 74924,
@@ -2600,7 +2600,7 @@
         "bike_id": 31873,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 202,
                 "report_bike_fk": 31873,
@@ -2628,7 +2628,7 @@
         "bike_id": 24011,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 996,
                 "report_bike_fk": 24011,
@@ -2684,7 +2684,7 @@
         "bike_id": 24813,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 153,
                 "report_bike_fk": 24813,
@@ -2768,7 +2768,7 @@
         "bike_id": 62515,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 205,
                 "report_bike_fk": 62515,
@@ -2838,7 +2838,7 @@
         "bike_id": 27138,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 304,
                 "report_bike_fk": 27138,
@@ -2943,7 +2943,7 @@
         "bike_id": 38861,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 353,
                 "report_bike_fk": 38861,
@@ -3048,7 +3048,7 @@
         "bike_id": 30132,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 523,
                 "report_bike_fk": 30132,
@@ -3153,7 +3153,7 @@
         "bike_id": 58985,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 785,
                 "report_bike_fk": 58985,
@@ -3188,7 +3188,7 @@
         "bike_id": 86587,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 656,
                 "report_bike_fk": 86587,
@@ -3216,7 +3216,7 @@
         "bike_id": 72486,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 853,
                 "report_bike_fk": 72486,
@@ -3272,7 +3272,7 @@
         "bike_id": 24932,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 469,
                 "report_bike_fk": 24932,
@@ -3307,7 +3307,7 @@
         "bike_id": 66573,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 269,
                 "report_bike_fk": 66573,
@@ -3363,7 +3363,7 @@
         "bike_id": 96031,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 246,
                 "report_bike_fk": 96031,
@@ -3412,7 +3412,7 @@
         "bike_id": 27729,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 796,
                 "report_bike_fk": 27729,
@@ -3496,7 +3496,7 @@
         "bike_id": 18821,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 327,
                 "report_bike_fk": 18821,
@@ -3594,7 +3594,7 @@
         "bike_id": 33173,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 664,
                 "report_bike_fk": 33173,
@@ -3636,7 +3636,7 @@
         "bike_id": 49161,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 668,
                 "report_bike_fk": 49161,
@@ -3734,7 +3734,7 @@
         "bike_id": 40965,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 934,
                 "report_bike_fk": 40965,
@@ -3839,7 +3839,7 @@
         "bike_id": 24211,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 986,
                 "report_bike_fk": 24211,
@@ -3909,7 +3909,7 @@
         "bike_id": 33392,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 262,
                 "report_bike_fk": 33392,
@@ -3979,7 +3979,7 @@
         "bike_id": 36460,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 661,
                 "report_bike_fk": 36460,
@@ -4063,7 +4063,7 @@
         "bike_id": 83509,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 328,
                 "report_bike_fk": 83509,
@@ -4154,7 +4154,7 @@
         "bike_id": 87739,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 435,
                 "report_bike_fk": 87739,
@@ -4231,7 +4231,7 @@
         "bike_id": 86305,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 541,
                 "report_bike_fk": 86305,
@@ -4315,7 +4315,7 @@
         "bike_id": 68478,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 360,
                 "report_bike_fk": 68478,
@@ -4378,7 +4378,7 @@
         "bike_id": 34730,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 487,
                 "report_bike_fk": 34730,
@@ -4469,7 +4469,7 @@
         "bike_id": 41670,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 618,
                 "report_bike_fk": 41670,
@@ -4525,7 +4525,7 @@
         "bike_id": 53537,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 297,
                 "report_bike_fk": 53537,
@@ -4630,7 +4630,7 @@
         "bike_id": 64306,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 917,
                 "report_bike_fk": 64306,
@@ -4679,7 +4679,7 @@
         "bike_id": 19527,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 438,
                 "report_bike_fk": 19527,
@@ -4742,7 +4742,7 @@
         "bike_id": 54858,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 226,
                 "report_bike_fk": 54858,
@@ -4812,7 +4812,7 @@
         "bike_id": 24666,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 967,
                 "report_bike_fk": 24666,
@@ -4868,7 +4868,7 @@
         "bike_id": 14573,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 779,
                 "report_bike_fk": 14573,
@@ -4966,7 +4966,7 @@
         "bike_id": 64699,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 946,
                 "report_bike_fk": 64699,
@@ -5064,7 +5064,7 @@
         "bike_id": 59896,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 610,
                 "report_bike_fk": 59896,
@@ -5113,7 +5113,7 @@
         "bike_id": 92439,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 188,
                 "report_bike_fk": 92439,
@@ -5183,7 +5183,7 @@
         "bike_id": 78838,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 101,
                 "report_bike_fk": 78838,
@@ -5274,7 +5274,7 @@
         "bike_id": 89480,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 259,
                 "report_bike_fk": 89480,
@@ -5337,7 +5337,7 @@
         "bike_id": 90808,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 195,
                 "report_bike_fk": 90808,
@@ -5400,7 +5400,7 @@
         "bike_id": 50110,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 717,
                 "report_bike_fk": 50110,
@@ -5428,7 +5428,7 @@
         "bike_id": 84189,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 764,
                 "report_bike_fk": 84189,
@@ -5477,7 +5477,7 @@
         "bike_id": 65407,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 240,
                 "report_bike_fk": 65407,
@@ -5540,7 +5540,7 @@
         "bike_id": 52741,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 197,
                 "report_bike_fk": 52741,
@@ -5652,7 +5652,7 @@
         "bike_id": 24444,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 373,
                 "report_bike_fk": 24444,
@@ -5694,7 +5694,7 @@
         "bike_id": 46039,
         "bike_is_electric": false,
         "bike_is_functional": true,
-        "report": [
+        "reports": [
             {
                 "report_id": 474,
                 "report_bike_fk": 46039,
@@ -5736,7 +5736,7 @@
         "bike_id": 41167,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 224,
                 "report_bike_fk": 41167,
@@ -5841,7 +5841,7 @@
         "bike_id": 37047,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 740,
                 "report_bike_fk": 37047,
@@ -5939,7 +5939,7 @@
         "bike_id": 85999,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 827,
                 "report_bike_fk": 85999,
@@ -6002,7 +6002,7 @@
         "bike_id": 68954,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 211,
                 "report_bike_fk": 68954,
@@ -6058,7 +6058,7 @@
         "bike_id": 35889,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 873,
                 "report_bike_fk": 35889,
@@ -6093,7 +6093,7 @@
         "bike_id": 13676,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 456,
                 "report_bike_fk": 13676,
@@ -6128,7 +6128,7 @@
         "bike_id": 44311,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 530,
                 "report_bike_fk": 44311,
@@ -6233,7 +6233,7 @@
         "bike_id": 12428,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 402,
                 "report_bike_fk": 12428,
@@ -6275,7 +6275,7 @@
         "bike_id": 50837,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 829,
                 "report_bike_fk": 50837,
@@ -6366,7 +6366,7 @@
         "bike_id": 85838,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 120,
                 "report_bike_fk": 85838,
@@ -6415,7 +6415,7 @@
         "bike_id": 42818,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 781,
                 "report_bike_fk": 42818,
@@ -6478,7 +6478,7 @@
         "bike_id": 82354,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 352,
                 "report_bike_fk": 82354,
@@ -6534,7 +6534,7 @@
         "bike_id": 63620,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 265,
                 "report_bike_fk": 63620,
@@ -6646,7 +6646,7 @@
         "bike_id": 79812,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 415,
                 "report_bike_fk": 79812,
@@ -6681,7 +6681,7 @@
         "bike_id": 98912,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 973,
                 "report_bike_fk": 98912,
@@ -6709,7 +6709,7 @@
         "bike_id": 96800,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 417,
                 "report_bike_fk": 96800,
@@ -6772,7 +6772,7 @@
         "bike_id": 24565,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 747,
                 "report_bike_fk": 24565,
@@ -6870,7 +6870,7 @@
         "bike_id": 41142,
         "bike_is_electric": true,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 462,
                 "report_bike_fk": 41142,
@@ -6912,7 +6912,7 @@
         "bike_id": 91530,
         "bike_is_electric": false,
         "bike_is_functional": false,
-        "report": [
+        "reports": [
             {
                 "report_id": 448,
                 "report_bike_fk": 91530,

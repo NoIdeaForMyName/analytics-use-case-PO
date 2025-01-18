@@ -4,7 +4,7 @@ id, rower_id, rowerzysta_id, czy_sprawny, opis
         bike_id: 54787
         bike_is_electric: false
         bike_is_functional: true
-        report: 
+        reports: 
         [
             {
                 report_id: 472
@@ -26,7 +26,7 @@ id, rower_id, rowerzysta_id, czy_sprawny, opis
         bike_id: 54787
         bike_is_electric: false
         bike_is_functional: true
-        report: 
+        reports: 
         [
             {
                 report_id: 123
