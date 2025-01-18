@@ -8,7 +8,8 @@ RUN_CONFIG = {
 }
 
 app = create_app()
-CORS(app, origins='http://127.0.0.1:5173') # React server address
+#CORS(app, origins='http://127.0.0.1:5173') # React server address
+CORS(app, origins='*') # React server address
 
 if __name__ == '__main__':
     app.run(**RUN_CONFIG)
