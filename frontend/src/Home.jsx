@@ -41,26 +41,27 @@ function Home() {
       const response = await fetch(`${serverURL}/analytics/get-all-reports-by-bike`);
       const json = await response.json();
       setAllReports(json);
-      return true;
+      return json;
     } catch (error) {
       setMessageBoxText(error.message);
       onOpen();
-      return false;
+      return null;
     }
   };
 
   const downloadAllReportsButton = async () => {
     setIsLoadingAllReportsButton(true);
-    const success = await downloadAllReports();
+    const jsonData = await downloadAllReports();
     setIsLoadingAllReportsButton(false);
-    if (success) {
-      downloadJSON(allReports, 'reports');
+    if (jsonData) {
+      downloadJSON(jsonData, 'reports');
       setMessageBoxText("Dane wszystkich zgłoszeń zostały pobrane pomyślnie");
       onOpen();
     }
   };
 
   const downloadJSON = (jsonData, filename) => {
+    console.log("JSON DATA TO DOWNLOAD: ", jsonData);
     const jsonString = `data:text/json;chatset=utf-8,${encodeURIComponent(
       JSON.stringify(jsonData)
     )}`;
@@ -72,11 +73,11 @@ function Home() {
 
   const showReportsDataButton = async () => {
     setIsLoadingChosenReportsButton(true);
-    const success = await downloadAllReports();
+    const jsonData = await downloadAllReports();
     setIsLoadingChosenReportsButton(false);
 
-    if (success && allReports) {
-      const bikeRows = allReports.map((bikeData) => ({
+    if (jsonData) {
+      const bikeRows = jsonData.map((bikeData) => ({
         bikeId: bikeData.bike_id,
         isElectric: bikeData.bike_is_electric,
         reportsNb: bikeData.reports.length,
