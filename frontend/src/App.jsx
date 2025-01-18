@@ -1,6 +1,5 @@
 // App.js
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Home';  // Ścieżka do pliku Home.js
 import Reports from './Reports';  // Ścieżka do pliku About.js
 import { Box } from '@chakra-ui/react';
@@ -9,10 +8,10 @@ import { Box } from '@chakra-ui/react';
 function App() {
   return (
     <Box
-      w="100vw"
-      h="100vh"
+      minH="100vh"
       bgGradient="linear(rgb(187, 201, 255),rgb(51, 75, 254))"
       color="white" // Opcjonalne, ustawia kolor tekstu na biały
+      bgAttachment="fixed" // Ustawia gradient jako statyczny
     >
       <Router>
           <Routes>
