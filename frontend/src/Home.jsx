@@ -55,6 +55,8 @@ function Home() {
     setIsLoadingAllReportsButton(false);
     if (success) {
       downloadJSON(allReports, 'reports');
+      setMessageBoxText("Dane wszystkich zgłoszeń zostały pobrane pomyślnie");
+      onOpen();
     }
   };
 
@@ -94,6 +96,8 @@ function Home() {
   const downloadChosenReportsButton = () => {
     let filteredReports = allReports.filter((entry) => checkedBikesIds.includes(entry.bike_id))
     downloadJSON(filteredReports, 'filtered_reports');
+    setMessageBoxText("Dane wybranych zgłoszeń zostały pobrane pomyślnie");
+    onOpen();
   };
 
   return (
